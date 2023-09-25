@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nniikkyy
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning Machine/Deep Learning
 - 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me nikhilbhadana045@gmail.com
 
