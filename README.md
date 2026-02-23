@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nniikkyy
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Machine/Deep Learning
-- 💞️ I’m looking to collaborate on Data Analysis
-- 📫 How to reach me nikhilbhadana045@gmail.com
+- 👀 I’m interested in AI
+- 🌱 I’m currently learning ML/AI/DL
+- 💞️ I’m looking to collaborate on AI projects
+- 📫 How to reach me logsbynikhil@gmail.com 
 
 <!---
 nniikkyy/nniikkyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
